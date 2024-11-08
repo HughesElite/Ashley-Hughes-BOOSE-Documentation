@@ -1,0 +1,58 @@
+### YamlMime:ManagedReference
+items:
+- uid: ASE_Assignment_Ashley_Hughes
+  commentId: N:ASE_Assignment_Ashley_Hughes
+  id: ASE_Assignment_Ashley_Hughes
+  children:
+  - ASE_Assignment_Ashley_Hughes.AppCanvas
+  - ASE_Assignment_Ashley_Hughes.AppCircle
+  - ASE_Assignment_Ashley_Hughes.AppCommandFactory
+  - ASE_Assignment_Ashley_Hughes.AppSetColour
+  - ASE_Assignment_Ashley_Hughes.AppWrite
+  - ASE_Assignment_Ashley_Hughes.BooseForm
+  langs:
+  - csharp
+  - vb
+  name: ASE_Assignment_Ashley_Hughes
+  nameWithType: ASE_Assignment_Ashley_Hughes
+  fullName: ASE_Assignment_Ashley_Hughes
+  type: Namespace
+  assemblies:
+  - ASE Assignment Ashley Hughes
+references:
+- uid: ASE_Assignment_Ashley_Hughes.AppCanvas
+  commentId: T:ASE_Assignment_Ashley_Hughes.AppCanvas
+  href: ASE_Assignment_Ashley_Hughes.AppCanvas.html
+  name: AppCanvas
+  nameWithType: AppCanvas
+  fullName: ASE_Assignment_Ashley_Hughes.AppCanvas
+- uid: ASE_Assignment_Ashley_Hughes.AppCircle
+  commentId: T:ASE_Assignment_Ashley_Hughes.AppCircle
+  href: ASE_Assignment_Ashley_Hughes.AppCircle.html
+  name: AppCircle
+  nameWithType: AppCircle
+  fullName: ASE_Assignment_Ashley_Hughes.AppCircle
+- uid: ASE_Assignment_Ashley_Hughes.AppCommandFactory
+  commentId: T:ASE_Assignment_Ashley_Hughes.AppCommandFactory
+  href: ASE_Assignment_Ashley_Hughes.AppCommandFactory.html
+  name: AppCommandFactory
+  nameWithType: AppCommandFactory
+  fullName: ASE_Assignment_Ashley_Hughes.AppCommandFactory
+- uid: ASE_Assignment_Ashley_Hughes.AppSetColour
+  commentId: T:ASE_Assignment_Ashley_Hughes.AppSetColour
+  href: ASE_Assignment_Ashley_Hughes.AppSetColour.html
+  name: AppSetColour
+  nameWithType: AppSetColour
+  fullName: ASE_Assignment_Ashley_Hughes.AppSetColour
+- uid: ASE_Assignment_Ashley_Hughes.AppWrite
+  commentId: T:ASE_Assignment_Ashley_Hughes.AppWrite
+  href: ASE_Assignment_Ashley_Hughes.AppWrite.html
+  name: AppWrite
+  nameWithType: AppWrite
+  fullName: ASE_Assignment_Ashley_Hughes.AppWrite
+- uid: ASE_Assignment_Ashley_Hughes.BooseForm
+  commentId: T:ASE_Assignment_Ashley_Hughes.BooseForm
+  href: ASE_Assignment_Ashley_Hughes.BooseForm.html
+  name: BooseForm
+  nameWithType: BooseForm
+  fullName: ASE_Assignment_Ashley_Hughes.BooseForm
